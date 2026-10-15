@@ -1,0 +1,11 @@
+# Credenciales locales de la base de datos (nunca se suben)
+config/db.php
+
+# Página temporal de phpinfo() (muestra datos internos del equipo)
+public/info.php
+
+# Salida que genera el autograde al ejecutarlo localmente
+resultado.json
+
+# Guía personal de pasos pendientes (no es parte de la entrega)
+PASOS_PENDIENTES.md
